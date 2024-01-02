@@ -17,10 +17,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -36,7 +32,7 @@ O DevLinks é um agregador de links.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Q0wUMVcuFBqPwVg2JMnRP5/DevLinks-%E2%80%A2-Projeto-Discover-(Community)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/Q0wUMVcuFBqPwVg2JMnRP5/DevLinks-%E2%80%A2-Projeto-Discover-(Community)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
